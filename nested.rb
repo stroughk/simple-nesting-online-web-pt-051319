@@ -86,6 +86,7 @@ def adding_matz
     programmer_hash[:kateryna_strough] = {}
     programmer_hash[:kateryna_strough][:known_for] ="Website Application"
     programmer_hash[:kateryna_strough][:languages]=["C-Sharp"]
+    programmer_hash
 end
 
 def changing_alan
