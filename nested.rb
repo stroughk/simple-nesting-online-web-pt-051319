@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:kateryna_strough] = 
+    programmer_hash[:kateryna_strough] = {}
 end
 
 def changing_alan
